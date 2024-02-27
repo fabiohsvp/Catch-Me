@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StringTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 053a90d5c59e6f7418bb93acf5c76920, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10010310262784
+    m_Localized: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10536741552128
+    m_Localized: Graphics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11692058394624
+    m_Localized: Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12166870384640
+    m_Localized: Fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12332700581888
+    m_Localized: Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12532345257984
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12911564865536
+    m_Localized: Return
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13355871682560
+    m_Localized: New Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13619903119360
+    m_Localized: Load
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13730293006336
+    m_Localized: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13903383543808
+    m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14199522377728
+    m_Localized: Quit to Desktop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14820489084928
+    m_Localized: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15268629495808
+    m_Localized: You need an identity card.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15779982262272
+    m_Localized: Arrested!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15968931463168
+    m_Localized: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16214667345920
+    m_Localized: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16566934355968
+    m_Localized: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16797973397504
+    m_Localized: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16979087638528
+    m_Localized: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17136126574592
+    m_Localized: Load
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17316360011776
+    m_Localized: Quit to Main
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17690596786176
+    m_Localized: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17915063353344
+    m_Localized: Graphics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18062212120576
+    m_Localized: Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18244161028096
+    m_Localized: Fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18406941966336
+    m_Localized: Return
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48861640704000
+    m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242253925695488
+    m_Localized: Checkpoint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3263846038683648
+    m_Localized: Airport
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3268252050178048
+    m_Localized: Airport Entrance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4393215805145088
+    m_Localized: You need an passport.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5873270980919296
+    m_Localized: To be continued...
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
